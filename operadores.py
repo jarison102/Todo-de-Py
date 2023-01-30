@@ -19,5 +19,7 @@ print("a" > "b")
 
 #Operadores Logicos
 print(3 > 4 and "hola" > "Python")
+#el or  compara con que uno de los 2 sea verdadera la condicion va se true (verdadera)
 print(3 < 4 or "hola" < "Python")
+#el not es para negar toda la condicion
 print(not(3 > 4 ))
