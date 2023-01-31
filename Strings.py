@@ -56,3 +56,5 @@ print(idioma.isnumeric())
 print(idioma.upper().isupper())
 #el startswith es para comprovar si idioma empieza por "es" da true ya que si es verdadero porque es español
 print(idioma.startswith("es"))
+
+
